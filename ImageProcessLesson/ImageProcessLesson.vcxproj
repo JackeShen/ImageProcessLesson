@@ -20,11 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Img_Extraction.cpp" />
-    <ClCompile Include="Img_Remap.cpp" />
-    <ClCompile Include="main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Function1.h" />
+  <ClInclude Include="Function1.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
